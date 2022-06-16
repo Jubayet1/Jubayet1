@@ -1,5 +1,5 @@
 # Hi there 👋
-📫 finding new things of developing a web site everyday   
-⚡ trying to become a full stack developer    
-👯 a team player    
+📫 Finding new things of developing a web site everyday   
+⚡ Trying to become a full stack developer    
+👯 A team player    
 😄 How to reach me: Tweeter, LinkedIn, FB   
