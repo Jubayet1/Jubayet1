@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/Jubayet1?tab=repositories)
 
-- 💬 Ask me about **React,Javascript**
+- 💬 Ask me about **React, Javascript**
 
 - 📫 How to reach me **jubayetme@gmail.com**
 
