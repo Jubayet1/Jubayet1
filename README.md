@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **NextJs, NodeJs**
 
-- 👨‍💻 All of my projects are available at [github](https://github.com/Jubayet1)
+- 👨‍💻 All of my projects are available at [github](https://github.com/Jubayet1?tab=repositories)
 
 - 💬 Ask me about **React,Javascript**
 
