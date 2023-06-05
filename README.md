@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jubayet</h1>
 <h3 align="center">PASSIONATE FRONTEND DEVELOPER</h3>
 
-<h4 align="center"> 🌱 I’m currently learning **NextJs, NodeJs**</h4>
+<h4 align="center"> 🌱 I’m currently learning <b>NextJs, NodeJs</b></h4>
 
-<h4 align="center"> 💬 Ask me about **React, Javascript**</h4>
+<h4 align="center"> 💬 Ask me about <b>React, Javascript</b></h4>
 
-<h4 align="center"> 📫 How to reach me **jubayetme@gmail.com**</h4>
+<h4 align="center"> 📫 How to reach me <b>jubayetme@gmail.com</b></h4>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
